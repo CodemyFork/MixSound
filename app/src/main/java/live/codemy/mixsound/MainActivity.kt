@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState, persistentState)
 
         setContentView(R.layout.activity_main)
+
+        //Bu kısım deneme amacli olusturulmus bir bolumdur.
     }
 }
