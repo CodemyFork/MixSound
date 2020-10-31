@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //Bu kısım deneme amacli olusturulmus bir bolumdur.
+
     }
 }
